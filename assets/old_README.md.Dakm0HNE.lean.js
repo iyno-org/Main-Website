@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a2 as o}from"./chunks/framework.Sicmpk4x.js";const _=JSON.parse('{"title":"Switch","description":"","frontmatter":{},"headers":[],"relativePath":"old/README.md","filePath":"old/README.md"}'),r={name:"old/README.md"},n=o("",6),s=[n];function i(l,c,d,h,p,u){return a(),t("div",null,s)}const g=e(r,[["render",i]]);export{_ as __pageData,g as default};
